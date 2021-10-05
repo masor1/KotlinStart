@@ -3,8 +3,8 @@
 - 1️⃣ Hello World ✔️
 - 2️⃣ Variables ✔️
 - 3️⃣ Nullable Types ✔️
-- 4️⃣ Conditional Statement if
-- 5️⃣ Conditional Statement when
+- 4️⃣ Conditional Statement if ✔️
+- 5️⃣ Conditional Statement when ✔️
 - 6️⃣ Collections
 - 7️⃣ Cycles
 - 8️⃣ Functions

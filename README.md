@@ -5,8 +5,8 @@
 - 3️⃣ Nullable Types ✔️
 - 4️⃣ Conditional Statement if ✔️
 - 5️⃣ Conditional Statement when ✔️
-- 6️⃣ Collections
-- 7️⃣ Cycles
+- 6️⃣ Collections ✔️
+- 7️⃣ Cycles ✔️
 - 8️⃣ Functions
 - 9️⃣ Exceptions
 ## 🔠Functional programming

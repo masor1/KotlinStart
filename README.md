@@ -8,5 +8,5 @@
 - 6️⃣ Collections ✔️
 - 7️⃣ Cycles ✔️
 - 8️⃣ Functions ✔️
-- 9️⃣ Exceptions
+- 9️⃣ Exceptions ✔️
 ## 🔠 Functional programming

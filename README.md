@@ -7,6 +7,6 @@
 - 5️⃣ Conditional Statement when ✔️
 - 6️⃣ Collections ✔️
 - 7️⃣ Cycles ✔️
-- 8️⃣ Functions
+- 8️⃣ Functions ✔️
 - 9️⃣ Exceptions
-## 🔠Functional programming
+## 🔠 Functional programming

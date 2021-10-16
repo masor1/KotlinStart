@@ -12,7 +12,7 @@
 ## 🔠 Functional programming
 - 1️⃣ Anonymous Methods or Lambda Expressions  ✔️
 - 2️⃣ Higher-order functions filter and map  ✔️
-- 3️⃣ Endless sequences
+- 3️⃣ Endless sequences  ✔️
 - 4️⃣ ZIP function
 - 5️⃣ FlatMap function
 - 6️⃣ With and let functions

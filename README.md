@@ -11,7 +11,7 @@
 - 9️⃣ Exceptions ✔️
 ## 🔠 Functional programming
 - 1️⃣ Anonymous Methods or Lambda Expressions  ✔️
-- 2️⃣ Higher-order functions filter and map
+- 2️⃣ Higher-order functions filter and map  ✔️
 - 3️⃣ Endless sequences
 - 4️⃣ ZIP function
 - 5️⃣ FlatMap function

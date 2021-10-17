@@ -8,4 +8,7 @@ fun main() {
     )
     val average1 = data.filter { it.value.all { it >= 0 }}.flatMap { it.value }.average()
     val average2 = data.filterNot { it.value.any { it < 0 }}.flatMap { it.value }.average()
+
+    println(average1)
+    println(average2)
 }

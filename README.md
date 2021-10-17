@@ -14,7 +14,7 @@
 - 2️⃣ Higher-order functions filter and map  ✔️
 - 3️⃣ Endless sequences  ✔️
 - 4️⃣ ZIP function  ✔️
-- 5️⃣ FlatMap function
+- 5️⃣ FlatMap function  ✔️
 - 6️⃣ With and let functions
 - 7️⃣ Extension-functions
 ## 🔠 OOP

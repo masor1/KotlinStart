@@ -21,3 +21,15 @@
 - 1️⃣ Introduction to OOP
 - 2️⃣ Constructors
 - 3️⃣ Methods
+- 4️⃣ Equals
+- 5️⃣ HashCode
+- 6️⃣ Data class
+- 7️⃣ Enum-class
+- 8️⃣ Inheritance
+- 9️⃣ Abstract classes & interfaces & Smart Cast
+- 🔟 Anonymous classes
+- 1️⃣1️⃣ Companion Object
+- 1️⃣2️⃣ SingleTon
+- 1️⃣3️⃣ Generic
+- 1️⃣4️⃣ Generic functions. Lateinit var
+## 🔠 Practice

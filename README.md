@@ -18,3 +18,6 @@
 - 6️⃣ With and let functions  ✔️
 - 7️⃣ Extension-functions  ✔️
 ## 🔠 OOP
+- 1️⃣ Introduction to OOP
+- 2️⃣ Constructors
+- 3️⃣ Methods

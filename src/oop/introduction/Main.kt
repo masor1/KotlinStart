@@ -2,7 +2,7 @@ package oop.introduction
 
 fun main() {
     val user = User()
-    user.setName("Федор")
-    user.setAge(22)
-    println("${user.getName()} ${user.getAge()}")
+    user.name = "Федор"
+    user.age = 22
+    println("${user.name} ${user.age}")
 }

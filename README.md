@@ -21,7 +21,7 @@
 - 1️⃣ Introduction to OOP  ✔️
 - 2️⃣ Constructors  ✔️
 - 3️⃣ Methods  ✔️
-- 4️⃣ Equals
+- 4️⃣ Equals  ✔️
 - 5️⃣ HashCode
 - 6️⃣ Data class
 - 7️⃣ Enum-class

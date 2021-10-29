@@ -1,4 +1,4 @@
-package functions
+package basic_syntax.functions
 
 fun main() {
     println(max(a = 2234, b = 456))

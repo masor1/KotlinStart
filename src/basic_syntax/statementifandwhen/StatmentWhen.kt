@@ -1,4 +1,4 @@
-package statementifandwhen
+package basic_syntax.statementifandwhen
 
 
 fun main() {

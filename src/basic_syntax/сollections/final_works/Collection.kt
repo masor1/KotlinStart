@@ -1,4 +1,4 @@
-package final_works
+package basic_syntax.сollections.final_works
 
 fun main() {
     val data = mapOf(

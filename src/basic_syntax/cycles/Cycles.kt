@@ -1,4 +1,4 @@
-package cycles
+package basic_syntax.cycles
 
 fun main() {
     //Задача: Создать массив чисел от 300 до 600,

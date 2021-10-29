@@ -1,4 +1,4 @@
-package variables
+package basic_syntax.variables
 
 fun main() {
     var nameVar: String = "Ivan"

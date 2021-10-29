@@ -11,12 +11,12 @@
 - 9️⃣ Exceptions ✔️
 ## 🔠 Functional programming
 - 1️⃣ Anonymous Methods or Lambda Expressions  ✔️
-- 2️⃣ Higher-order functions filter and map  ✔️
+- 2️⃣ Higher-order basic_syntax.functions filter and map  ✔️
 - 3️⃣ Endless sequences  ✔️
 - 4️⃣ ZIP function  ✔️
 - 5️⃣ FlatMap function  ✔️
-- 6️⃣ With and let functions  ✔️
-- 7️⃣ Extension-functions  ✔️
+- 6️⃣ With and let basic_syntax.functions  ✔️
+- 7️⃣ Extension-basic_syntax.functions  ✔️
 ## 🔠 OOP
 - 1️⃣ Introduction to OOP  ✔️
 - 2️⃣ Constructors  ✔️
@@ -31,5 +31,5 @@
 - 1️⃣1️⃣ Companion Object
 - 1️⃣2️⃣ SingleTon
 - 1️⃣3️⃣ Generic
-- 1️⃣4️⃣ Generic functions. Lateinit var
+- 1️⃣4️⃣ Generic basic_syntax.functions. Lateinit var
 ## 🔠 Practice

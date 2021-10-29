@@ -23,7 +23,7 @@
 - 3️⃣ Methods  ✔️
 - 4️⃣ Equals  ✔️
 - 5️⃣ HashCode  ✔️
-- 6️⃣ Data class
+- 6️⃣ Data class  ✔️
 - 7️⃣ Enum-class
 - 8️⃣ Inheritance
 - 9️⃣ Abstract classes & interfaces & Smart Cast

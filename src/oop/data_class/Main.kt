@@ -13,8 +13,10 @@ fun main() {
     println(student1 == student2)
     println(student1 === student2)
 
-    val (name, _, id) = student2 //destructor
+    val (name, lastName, id) = student2 //destructor
+
     println(name)
+    println(lastName)
     println(id)
 
 }

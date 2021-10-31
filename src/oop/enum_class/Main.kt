@@ -11,5 +11,5 @@ fun main() {
         JUNE, JULY, AUGUST -> SUMMER
         SEPTEMBER, OCTOBER, NOVEMBER -> AUTUMN
     }
-    println(season)
+    println("Season: $season. Temp average: ${season.tempAverage}°C")
 }

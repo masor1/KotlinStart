@@ -1,12 +1,12 @@
 package oop.inheritance
 
-class Animal(val name: String, var weight: Float, val habitat: String) {
+open class Animal(val name: String, var weight: Float, val habitat: String) {
 
-    fun eat() {
+    open fun eat() {
         println("Кушаю еду...")
     }
 
-    fun run() {
+    open fun run() {
         println("Бегу...")
     }
 

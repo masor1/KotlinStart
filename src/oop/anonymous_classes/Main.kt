@@ -2,13 +2,14 @@ package oop.anonymous_classes
 
 fun main() {
 
-    val car: Transport = Car()
-    val bicycle: Transport = Bicycle()
+    travel(object : Transport("Автобус") {
+        override fun drive() {
+            println("Автобус едет")
+        }
+    })
 
-    if (car is Car && car.startEngine()) {
-        car.drive()
-    }
+}
 
-    println(car.name)
-
+fun travel(transport: Transport) {
+    transport.drive()
 }

@@ -1,6 +1,6 @@
 package oop.anonymous_classes
 
-class Bike(name: String) : Transport(name = name) {
+class Bicycle : Transport("Велосипед") {
 
     override fun drive() {
         println("Велосипед едет...")

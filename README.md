@@ -26,7 +26,7 @@
 - 6️⃣ Data class  ✔️
 - 7️⃣ Enum-class  ✔️
 - 8️⃣ Inheritance  ✔️
-- 9️⃣ Abstract classes & interfaces & Smart Cast
+- 9️⃣ Abstract classes & interfaces & Smart Cast  ✔️
 - 🔟 Anonymous classes
 - 1️⃣1️⃣ Companion Object
 - 1️⃣2️⃣ SingleTon

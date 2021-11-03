@@ -27,7 +27,7 @@
 - 7️⃣ Enum-class  ✔️
 - 8️⃣ Inheritance  ✔️
 - 9️⃣ Abstract classes & interfaces & Smart Cast  ✔️
-- 🔟 Anonymous classes
+- 🔟 Anonymous classes ✔️
 - 1️⃣1️⃣ Companion Object
 - 1️⃣2️⃣ SingleTon
 - 1️⃣3️⃣ Generic

@@ -2,6 +2,6 @@ package oop.companion_object
 
 fun main() {
 
-    println(MyCalculate.square(5))
+    println(MyCalculate.lengthOfCircle(5f))
 
 }

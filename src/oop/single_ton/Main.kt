@@ -1,7 +1,7 @@
 package oop.single_ton
 
 fun main() {
-    val db = Database.getInstance()
+    val db = Database
     db.insertData("1")
     db.insertData("2")
 

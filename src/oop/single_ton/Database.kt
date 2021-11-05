@@ -1,6 +1,6 @@
 package oop.single_ton
 
-class Database private constructor() {
+object Database {
     val name = "main.db"
     val version = 1
     val data = mutableListOf<String>()
@@ -8,16 +8,4 @@ class Database private constructor() {
     fun insertData(str: String) {
         data.add(str)
     }
-
-    companion object {
-        private var db: Database? = null
-
-        fun getInstance(): Database {
-            if (db == null) {
-                db = Database()
-            }
-            return db as Database
-        }
-    }
-
 }

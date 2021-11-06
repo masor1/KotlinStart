@@ -31,5 +31,5 @@
 - 1️⃣1️⃣ Companion Object  ✔️
 - 1️⃣2️⃣ SingleTon  ✔️
 - 1️⃣3️⃣ Generic  ✔️
-- 1️⃣4️⃣ Generic basic_syntax.functions. Lateinit var
+- 1️⃣4️⃣ Lateinit var
 ## 🔠 Practice

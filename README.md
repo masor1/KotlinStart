@@ -33,3 +33,4 @@
 - 1️⃣3️⃣ Generic  ✔️
 - 1️⃣4️⃣ Lateinit var  ✔️
 ## 🔠 Practice
+- 1️⃣ https://github.com/masor1/FirstKotlinApp

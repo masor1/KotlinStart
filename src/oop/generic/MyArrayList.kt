@@ -3,29 +3,29 @@ package oop.generic
 import java.lang.IndexOutOfBoundsException
 
 
-class MyArrayList : MyList{
+class MyArrayList<T> : MyList<T> {
 
-    private var array = arrayOfNulls<String>(10)
+    private var array = arrayOfNulls<Any>(10)
     private var size = 0
 
-    override fun get(index: Int): String {
+    override fun get(index: Int): T {
         if (index in 0 until size) {
             array[index]?.let {
-                return it
+                return it as T
             }
         }
         throw IndexOutOfBoundsException()
     }
 
-    override fun add(string: String) {
+    override fun add(element: T) {
         if (size == array.size - 1) {
             array = array.copyOf(array.size * 2)
         }
-        array[size] = string
+        array[size] = element
         size++
     }
 
-    override fun remove(element: String) {
+    override fun remove(element: T) {
         for ((index, string) in array.withIndex()) {
             if (string == element) {
                 removeAt(index = index)

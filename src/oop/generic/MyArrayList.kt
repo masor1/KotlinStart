@@ -8,6 +8,16 @@ class MyArrayList<T> : MyList<T> {
     private var array = arrayOfNulls<Any>(10)
     private var size = 0
 
+    companion object {
+        fun<T> myListOf(vararg elements: T): MyArrayList<T> {
+            val array = MyArrayList<T>()
+            for (element in elements) {
+                array.add(element = element)
+            }
+            return array
+        }
+    }
+
     override fun get(index: Int): T {
         if (index in 0 until size) {
             array[index]?.let {

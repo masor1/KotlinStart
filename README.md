@@ -34,3 +34,4 @@
 - 1️⃣4️⃣ Lateinit var  ✔️
 ## 🔠 Practice
 - 1️⃣ https://github.com/masor1/FirstKotlinApp
+- 2️⃣ https://github.com/masor1/CryptoCompare
